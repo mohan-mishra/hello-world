@@ -1,0 +1,52 @@
+Payment Page SDK (Android, iOS and Web): Juspay Payment Page SDK is a fully managed native, cross-platform adaptive payments experience orchestrator which can seamlessly blend with your app or website. The product is designed to be a future-proof payments toolkit. 
+Juspay Payment Page SDK is a fully managed native, cross-platform adaptive payments experience orchestrator which can seamlessly blend with your app or website.
+
+The product is designed to be a future-proof payments toolkit which enables your app or website with
+
+Early access to all latest payment innovations, with zero to very minimal tech investment
+Easily meet the objectives in your Payments Roadmap using our Payments Toolkit. It may be,
+(i) Improving conversion rates with our pre-built conversion optimised user experience
+(ii) Optimising payment processing cost by easily onboarding multiple Payment processors and managing the transaction volume/ value routed to each payment processor
+(iii) Reducing operations in terms of reducing app releases for payments, quicker reconciliation, managing refunds and customer queries related to payments
+(iv) Providing best coverage of payment experiences and options to your customer
+
+Standard Payment flows:
+The Juspay Payment Page covers all standard payment flows such as
+
+Cards (payments with new cards & saved cards)
+Netbanking
+App invoke user journeys
+UPI
+EMI (Standard EMI, No Cost EMI and Cardless EMI)
+Wallets (all major prepaid wallets)
+Buy Now Pay Later
+Cash on Delivery
+
+UPI Intent:
+UPI Apps will be directly invoked from the Checkout Page. This eliminates the need for entering the UPI ID and navigating between apps for completion of payment. This flow works across Android, iOS and Web platforms.
+
+Note: All UPI Apps are supported in Android platform. In case of Web and iOS only specific UPI Apps (Gpay, Phonepe and Paytm) are supported.
+
+EMI (Standard EMI and No Cost EMI and Cardless EMI):
+Juspay Payment Page support three types of EMI user journeys in partnership with specific payment processors.
+
+Standard EMI flows: This will be "interest" applicable EMI journey, wherein the user will have to select a particular bank, tenure and interest plan before proceeding with payment
+
+No Cost EMI: This will be "interest waived off" EMI journey, wherein the user will be provided an upfront discount on the interest payable to the bank (No Cost EMI discount).
+
+Cardless EMI: Mobile number based EMI offering provided in partnership with specific acquirers
+
+RBI guidelines on Card-on-File Tokenisation has an impact on EMI processing via Issuers post Dec 31, 2021. Juspay is a certified Token Requestor as per RBI Guidelines and working with Payments industry stakeholders in ensuring seamless Card based EMI Payments.
+
+Juspay Payment Page powers all major wallets in India. Two types of user journeys are possible
+Direct Debit For first time transaction the user can link wallet account (without any additional redirections) with a mobile number and OTP entry flow. All repeat transactions will be one-click if the user has sufficient balance in his account.
+Redirection Flow For each transaction the user will be redirected to the respective wallet’s webpage, where Mobile number and OTP authentication will be required to complete the payment.
+
+Juspay Payment Page provides Cash on Delivery (COD) option too. If the user selects COD, Juspay creates a transaction entry and status automatically gets marked as COD_INITIATED. By processing such Cash on Delivery transactions via Juspay Payment Page, you get the following benefits:
+
+Align with your business priorities of promoting/ depromoting Cash on Delivery by removing/adding convenience fee to the COD option using the Juspay Dashboard. The decision of displaying the COD option and applying surcharge could be managed at a session level, by providing additional instructions to the Juspay SDK.
+Single point of tracking for your Online versus COD payments (using the Juspay Analytics tools) across contextual parameters such as you business unit, product line, customer category. This may be achieved by leveraging on the user defined parameters passed to the Juspay Payment Page SDK.
+
+Juspay Payment page can blend seamlessly with your app/website’s branding guidelines. This is made possible by 100+ configurations supported by the Payment page which is tailored to suit your branding and business needs.
+
+To address your branding needs — The Juspay payment page will be able to change its layout and theme to blend seamlessly with your app. This will be a 100% native experience for the end user.
